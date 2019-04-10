@@ -1,0 +1,14 @@
+// ==UserScript==
+// @name         Save to Pocket
+// @icon         https://getpocket.com/a/i/pocketlogo.svg
+// @namespace    http://tampermonkey.net/
+// @version      1.0.0
+// @description  Save page to pocket by userscript. Click your script manager's menu and press R or push the button.
+// @author       Erick Guan
+// @include      *
+// @run-at       document-start
+// @grant        GM_registerMenuCommand
+// @grant        GM_xmlhttpRequest
+// @grant        GM_log
+// @connect      *
+// ==/UserScript==
